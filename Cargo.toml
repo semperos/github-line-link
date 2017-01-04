@@ -1,0 +1,9 @@
+[package]
+name = "github-line-link"
+version = "0.1.0"
+authors = ["Daniel Gregoire <daniel.l.gregoire@gmail.com>"]
+
+[dependencies]
+git2 = "0.6"
+lazy_static = "0.2.2"
+regex = "0.2"
